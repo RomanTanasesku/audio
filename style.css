@@ -1,0 +1,42 @@
+body{
+    background:linear-gradient( to left top, #c93131,#000) ;
+}
+h1{
+    text-align: center;
+    color: #fff;
+    width: 190px;
+    margin: 0 auto;
+    background-color: #000;
+    border-radius: 20px;
+}
+span{
+    color: red;
+}
+.media {
+    background: url(https://cdn.mypanel.link/dvj0ve/cwjbst1y2qo8tge4.png);
+    background-size: cover;
+    border-radius: 20px;
+    height: 1200px;
+    width: 1200px;
+    margin: 50px auto;
+    padding: 10px;
+}
+.media__player {
+    background-color: #00eaff;
+    border-radius: 20px;
+    width: 300px;
+    height: 200px;
+    margin: 5px auto;
+    padding: 5px;
+    text-align: center;
+    margin: 70px 130px 15px 130px;
+    padding: 0 auto;
+    display: inline-block;
+    border-spacing: table;
+}
+.media__name {
+    text-align: center;
+}
+.img{
+    border-radius: 20px;
+}
